@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ara-com.iml" filepath="$PROJECT_DIR$/ara-com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ara-com-api/ara-com-api.iml" filepath="$PROJECT_DIR$/ara-com-api/ara-com-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ara-com-sql/ara-com-sql.iml" filepath="$PROJECT_DIR$/ara-com-sql/ara-com-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ara-com-wjb/ara-com-wjb.iml" filepath="$PROJECT_DIR$/ara-com-wjb/ara-com-wjb.iml" />
+    </modules>
+  </component>
+</project>
